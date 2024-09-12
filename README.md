@@ -1,1 +1,2 @@
-git log -- README.md
+git add README.md
+git commit -m "Restore README.md"
