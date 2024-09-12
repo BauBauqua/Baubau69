@@ -1,6 +1,0 @@
-- 👋 Hi, I’m Jethro Javier
-- 👀 I’m interested in You
-- 🌱 I’m currently learning Java Javascript python 
-- 💞️ I’m looking to collaborate on linus tech
-- 📫 How to reach me i reach you
-- ⚡ Fun fact: :(
